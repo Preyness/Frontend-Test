@@ -1,6 +1,7 @@
 ﻿# frontend-test
 
 cd captcha
+
 npm i
 
 npm i react-webcam
